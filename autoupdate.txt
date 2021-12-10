@@ -1,0 +1,6 @@
+@ShutdownOnFailedCommand 0 //0 - multi server, 1 - one server
+@NoPromptForPassword 1
+login anonymous 
+force_install_dir ../
+app_update 740
+quit
