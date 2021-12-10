@@ -1,0 +1,1 @@
+-autoupdate -steam_dir steamcmd -steamcmd_script autoupdate.txt
